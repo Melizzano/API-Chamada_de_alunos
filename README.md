@@ -202,9 +202,9 @@ API_CHAMADA_DE_ALUNOS/
 
 ## Modelo de Dados
 
-A estrutura completa do banco de dados está documentada no arquivo:
+A estrutura completa do banco de dados está documentada no arquivo: **[Database](explain_database.md)**
 
-➡️ **[Explain_DATABASE.md](Explain_DATABASE.md)**
+![Conceptual model - BRMW(corrigido)_page-0001](https://github.com/user-attachments/assets/af856fee-e18b-40fa-907e-e7079764bdb7)
 
 ---
 
