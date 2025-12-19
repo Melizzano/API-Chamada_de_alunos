@@ -206,6 +206,21 @@ A estrutura completa do banco de dados está documentada no arquivo: **[Database
 
 ![Conceptual model - BRMW(corrigido)_page-0001](https://github.com/user-attachments/assets/af856fee-e18b-40fa-907e-e7079764bdb7)
 
+### 1. **app_aluno**
+<img width="766" height="401" alt="db sqlite3 - app_aluno" src="https://github.com/user-attachments/assets/4d4bbd3a-fe76-469e-a9da-d802a01fc8f6" />
+
+### 2. **app_matricula**
+<img width="770" height="381" alt="db sqlite3 - app_matricula" src="https://github.com/user-attachments/assets/9a5d3e0d-4861-4709-8846-4f1e0eb9ac3f" />
+
+### 3. **app_presenca**
+<img width="361" height="174" alt="db sqlite3 - app_presenca" src="https://github.com/user-attachments/assets/39d41033-08b9-4f47-b356-655b02536959" />
+
+### 4. **app_professor**
+<img width="524" height="274" alt="db sqlite3 - app_professor" src="https://github.com/user-attachments/assets/3af2986a-a817-43dd-b251-31d3078064a0" />
+
+### 5. **app_turma**
+<img width="586" height="478" alt="db sqlite3 - app_turma" src="https://github.com/user-attachments/assets/f7c0f79d-25ac-4579-a3f3-153b254fcab1" />
+
 ---
 
 ## Autenticação
