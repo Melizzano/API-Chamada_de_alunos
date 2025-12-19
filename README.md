@@ -204,7 +204,7 @@ API_CHAMADA_DE_ALUNOS/
 
 A estrutura completa do banco de dados está documentada no arquivo: **[Database](explain_database.md)**
 
-![Conceptual model - BRMW(corrigido)_page-0001](https://github.com/user-attachments/assets/af856fee-e18b-40fa-907e-e7079764bdb7)
+<img width="1264" height="1235" alt="diagramapiifb pdf" src="https://github.com/user-attachments/assets/176319e2-f85f-4166-99ed-df6c16161f48" />
 
 ### 1. **app_aluno**
 <img width="766" height="401" alt="db sqlite3 - app_aluno" src="https://github.com/user-attachments/assets/4d4bbd3a-fe76-469e-a9da-d802a01fc8f6" />
