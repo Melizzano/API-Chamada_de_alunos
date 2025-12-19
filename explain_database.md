@@ -1,4 +1,4 @@
-# Explain_DATABASE.md
+# DATABASE
 
 ## Projeto Integrador – Sistema de Chamada de Alunos
 
@@ -304,7 +304,14 @@ Esta documentação complementa o código-fonte e serve como referência oficial
 
 ---
 
-**Autor:** Projeto Integrador – Sistema de Chamada de Alunos  
-**Stack:** Django 5.2 • DRF • JWT • SQLite  
-**Finalidade:** Documentação técnica para GitHub
+## Equipe
+
+**Desenvolvimento:**
+- Yuri Daquila – Backend Development
+- Sóstenes H. – API Design & Documentation
+- Sara Spinola – Database Modeling & Testing
+
+**Instituição:** IFB Campus Estrutural  
+**Curso:** Desenvolvimento de Software com Formação BackEnd – Python com Django  
+**Professor:** Wellyelton Gualberto de Brito Rodrigues
 
